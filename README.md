@@ -2,7 +2,9 @@
 
 ## About me
 
-SOON...
+I am an IT professional with 15+ years' career built in multinational companies in eCommerce and Health industries. I am a DevOps culture and infrastructure as code enthusiastic, always motivated to learn new things about infrastructure/DevOps and Systems.
+
+Currently, I am learning more about IaC and Cloud Architecture.
 
 ## Connect with me
 
